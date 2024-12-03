@@ -1,0 +1,11 @@
+/* * TÜM WEBSİTELERE BAŞLAMADAN ÖNCE BUNLARI YAPMAK GEREKİYOR. */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
